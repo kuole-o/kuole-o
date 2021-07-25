@@ -3,7 +3,7 @@
 ```
 
 ### 介绍
-**我是 [guole](https://guole.fun/)，一名互联网运营，当前在人工智能行业，热爱瞎折腾** 👋
+**hi，我是 [guole](https://guole.fun/)，一名互联网运营，当前在人工智能行业，热爱瞎折腾** 👋
 
 [<img src ="https://img.shields.io/badge/%F0%9F%8C%90-guole.fun-brightgreen">](https://guole.fun/)
 
@@ -48,6 +48,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuole-o&layout=compact" />
 </a>
 
-<span align="center"> 
-  ![](https://komarev.com/ghpvc/?username=kuole-o&color=blue")
-</span>
+![](https://komarev.com/ghpvc/?username=kuole-o&color=blue")
