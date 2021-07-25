@@ -48,4 +48,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuole-o&layout=compact" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=kuole-o&color=blue")
+![](https://komarev.com/ghpvc/?username=kuole-o&color=blue)
