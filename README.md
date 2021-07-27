@@ -1,4 +1,4 @@
-**hi，我是 [guole](https://guole.fun/)，一名互联网运营，当前在人工智能行业，热爱瞎折腾** 👋
+**hi，我是 [guole](https://guole.fun/)，一名互联网运营，当前在人工智能行业，喜欢瞎折腾** 👋
 
 [<img src ="https://img.shields.io/badge/%F0%9F%8C%90-guole.fun-brightgreen">](https://guole.fun/)
 ![](https://komarev.com/ghpvc/?username=kuole-o&color=blue)
@@ -10,6 +10,12 @@
 </a>
 <a href="https://github.com/kuole-o/Actions-OpenWrt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=Actions-OpenWrt&theme=onedark" />
+</a>
+<a href="https://github.com/kuole-o/hexo-butterfly-charts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-butterfly-charts&theme=onedark" />
+</a>
+<a href="https://github.com/kuole-o/hexo-butterfly-charts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=blog_game&theme=onedark" />
 </a>
 
 ### 🛠 技能和工具
