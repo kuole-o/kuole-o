@@ -14,8 +14,8 @@
 <a href="https://github.com/kuole-o/hexo-butterfly-charts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-butterfly-charts&theme=onedark" />
 </a>
-<a href="https://github.com/kuole-o/hexo-butterfly-charts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=blog_game&theme=onedark" />
+<a href="https://github.com/kuole-o/hexo-tag-map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-tag-map&theme=onedark" />
 </a>
 
 ### 🛠 技能和工具
