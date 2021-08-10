@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
 ![Premiere](https://img.shields.io/badge/-Premiere-000058?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=9494f7)
-![Illustrator](https://img.shields.io/badge/-Premiere-310000?style=flat-square&logo=Adobe-Illustrator&logoColor=#f79c00)
+![Illustrator](https://img.shields.io/badge/-Illustrator-310000?style=flat-square&logo=Adobe-Illustrator&logoColor=#f79c00)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-009298?style=flat-square&logo=arduino&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
