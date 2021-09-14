@@ -6,19 +6,19 @@
 ### ⚙ 折腾
 
 <a href="https://github.com/kuole-o/IoT_xiaoai_blinker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=IoT_xiaoai_blinker&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=IoT_xiaoai_blinker" />
 </a>
 <a href="https://github.com/kuole-o/Actions-OpenWrt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=Actions-OpenWrt&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=Actions-OpenWrt" />
 </a>
 <a href="https://github.com/kuole-o/hexo-butterfly-charts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-butterfly-charts&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-butterfly-charts" />
 </a>
 <a href="https://github.com/kuole-o/hexo-tag-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-tag-map&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-tag-map" />
 </a>
 <a href="https://github.com/kuole-o/bber-ispeak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=bber-ispeak&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=bber-ispeak" />
 </a>
 
 ### 🛠 技能和工具
