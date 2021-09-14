@@ -20,6 +20,9 @@
 <a href="https://github.com/kuole-o/bber-ispeak">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=bber-ispeak" />
 </a>
+<a href="https://github.com/kuole-o/blog_game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=blog_game" />
+</a>
 
 ### 🛠 技能和工具
 
