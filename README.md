@@ -17,6 +17,9 @@
 <a href="https://github.com/kuole-o/hexo-tag-map">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-tag-map&theme=onedark" />
 </a>
+<a href="https://github.com/kuole-o/bber-ispeak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=bber-ispeak&theme=onedark" />
+</a>
 
 ### 🛠 技能和工具
 
