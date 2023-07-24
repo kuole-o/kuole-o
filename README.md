@@ -1,6 +1,6 @@
 **hi，我是 [Guo Le](https://guole.fun/)** 👋
 
-[<img src ="https://img.shields.io/badge/%F0%9F%8C%90-guole.fun-brightgreen">](https://guole.fun/)
+[<img src ="https://img.shields.io/badge/%F0%9F%8C%90-guole.fun-brightgreen">](https://blog.guole.fun/)
 ![](https://komarev.com/ghpvc/?username=kuole-o&color=blue)
 
 ### ⚙ 折腾
